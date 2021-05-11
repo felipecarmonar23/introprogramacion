@@ -65,4 +65,3 @@ plt.ylabel ("voltaje (microvoltios)")
 plt.savefig ("cc.png")
 
 plt.show
-
